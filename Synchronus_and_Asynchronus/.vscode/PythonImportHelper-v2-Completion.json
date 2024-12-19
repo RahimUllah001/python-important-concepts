@@ -1,0 +1,236 @@
+[
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134051",
+        "description": ".history.prcatice_20241217134051",
+        "peekOfCode": "x,y,z =",
+        "detail": ".history.prcatice_20241217134051",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134052",
+        "description": ".history.prcatice_20241217134052",
+        "peekOfCode": "x,y,z = 5",
+        "detail": ".history.prcatice_20241217134052",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134114",
+        "description": ".history.prcatice_20241217134114",
+        "peekOfCode": "x,y,z = 5\npri",
+        "detail": ".history.prcatice_20241217134114",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134116",
+        "description": ".history.prcatice_20241217134116",
+        "peekOfCode": "x,y,z = 5\nprint",
+        "detail": ".history.prcatice_20241217134116",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134117",
+        "description": ".history.prcatice_20241217134117",
+        "peekOfCode": "x,y,z = 5\nprint()",
+        "detail": ".history.prcatice_20241217134117",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134119",
+        "description": ".history.prcatice_20241217134119",
+        "peekOfCode": "x,y,z = 5\nprint()\nprint()\nprint()",
+        "detail": ".history.prcatice_20241217134119",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134123",
+        "description": ".history.prcatice_20241217134123",
+        "peekOfCode": "x,y,z = 5\nprint(x)\nprint()\nprint()",
+        "detail": ".history.prcatice_20241217134123",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134126",
+        "description": ".history.prcatice_20241217134126",
+        "peekOfCode": "x,y,z = 5\nprint(x)\nprint(y)\nprint()",
+        "detail": ".history.prcatice_20241217134126",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134129",
+        "description": ".history.prcatice_20241217134129",
+        "peekOfCode": "x,y,z = 5\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134129",
+        "documentation": {}
+    },
+    {
+        "label": "x=y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134152",
+        "description": ".history.prcatice_20241217134152",
+        "peekOfCode": "x=y,z = 5\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134152",
+        "documentation": {}
+    },
+    {
+        "label": "x=y=z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134154",
+        "description": ".history.prcatice_20241217134154",
+        "peekOfCode": "x=y=z = 5\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134154",
+        "documentation": {}
+    },
+    {
+        "label": "x=y=z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134204",
+        "description": ".history.prcatice_20241217134204",
+        "peekOfCode": "x=y=z = 5,6\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134204",
+        "documentation": {}
+    },
+    {
+        "label": "x,y=z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134211",
+        "description": ".history.prcatice_20241217134211",
+        "peekOfCode": "x,y=z = 5,6\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134211",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134231",
+        "description": ".history.prcatice_20241217134231",
+        "peekOfCode": "x,y,z = 5,6\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134231",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": ".history.prcatice_20241217134240",
+        "description": ".history.prcatice_20241217134240",
+        "peekOfCode": "x,y,z = 5,6,0\nprint(x)\nprint(y)\nprint(z)",
+        "detail": ".history.prcatice_20241217134240",
+        "documentation": {}
+    },
+    {
+        "label": "task_1",
+        "kind": 2,
+        "importPath": ".history.synch_20241216211424",
+        "description": ".history.synch_20241216211424",
+        "peekOfCode": "def task_1():\n    print(\"Starting task 1\")\n    time.sleep(3)  # Simulating a task that takes 3 seconds\n    print(\"Task 1 done\")\ndef task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": ".history.synch_20241216211424",
+        "documentation": {}
+    },
+    {
+        "label": "task_2",
+        "kind": 2,
+        "importPath": ".history.synch_20241216211424",
+        "description": ".history.synch_20241216211424",
+        "peekOfCode": "def task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": ".history.synch_20241216211424",
+        "documentation": {}
+    },
+    {
+        "label": "task_1",
+        "kind": 2,
+        "importPath": ".history.synch_20241216211439",
+        "description": ".history.synch_20241216211439",
+        "peekOfCode": "def task_1():\n    print(\"Starting task 1\")\n    time.sleep(3)  # Simulating a task that takes 3 seconds\n    print(\"Task 1 done\")\ndef task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": ".history.synch_20241216211439",
+        "documentation": {}
+    },
+    {
+        "label": "task_2",
+        "kind": 2,
+        "importPath": ".history.synch_20241216211439",
+        "description": ".history.synch_20241216211439",
+        "peekOfCode": "def task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": ".history.synch_20241216211439",
+        "documentation": {}
+    },
+    {
+        "label": "task_1",
+        "kind": 2,
+        "importPath": ".history.synch_20241216211442",
+        "description": ".history.synch_20241216211442",
+        "peekOfCode": "def task_1():\n    print(\"Starting task 1\")\n    time.sleep(3)  # Simulating a task that takes 3 seconds\n    print(\"Task 1 done\")\ndef task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": ".history.synch_20241216211442",
+        "documentation": {}
+    },
+    {
+        "label": "task_2",
+        "kind": 2,
+        "importPath": ".history.synch_20241216211442",
+        "description": ".history.synch_20241216211442",
+        "peekOfCode": "def task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": ".history.synch_20241216211442",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": "prcatice",
+        "description": "prcatice",
+        "peekOfCode": "x,y,z = 5,6,0\nprint(x)\nprint(y)\nprint(z)",
+        "detail": "prcatice",
+        "documentation": {}
+    },
+    {
+        "label": "task_1",
+        "kind": 2,
+        "importPath": "synch",
+        "description": "synch",
+        "peekOfCode": "def task_1():\n    print(\"Starting task 1\")\n    time.sleep(3)  # Simulating a task that takes 3 seconds\n    print(\"Task 1 done\")\ndef task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": "synch",
+        "documentation": {}
+    },
+    {
+        "label": "task_2",
+        "kind": 2,
+        "importPath": "synch",
+        "description": "synch",
+        "peekOfCode": "def task_2():\n    print(\"Starting task 2\")\n    time.sleep(2)  # Simulating another task that takes 2 seconds\n    print(\"Task 2 done\")\ntask_1()\ntask_2()",
+        "detail": "synch",
+        "documentation": {}
+    }
+]
